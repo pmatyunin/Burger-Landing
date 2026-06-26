@@ -8,7 +8,6 @@ A responsive landing page for a fast food restaurant built with HTML and CSS.
 - Semantic HTML5
 - CSS3
 - Flexbox layout
-- Mobile-friendly interface
 
 ## 🛠️ Technologies
 
