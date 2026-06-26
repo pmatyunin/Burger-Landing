@@ -1,6 +1,6 @@
 # 🍔 Burger Landing Page
 
-A responsive landing page for a fast food restaurant built with HTML and CSS.
+A landing page for a fast food restaurant built with HTML and CSS.
 
 ## ✨ Features
 
