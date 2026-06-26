@@ -31,6 +31,10 @@ A responsive landing page for a fast food restaurant built with HTML and CSS.
 ├── style.css
 └── README.md
 ```
+## 📸 Preview
+
+![Preview](images/preview.png)
+
 ## 📄 License
 
 This project is created for educational and portfolio purposes.
