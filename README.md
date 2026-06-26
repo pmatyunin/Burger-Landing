@@ -20,6 +20,7 @@ A responsive landing page for a fast food restaurant built with HTML and CSS.
 
 1. Clone the repository:
 2. Open `index.html` in your browser.
+
 the website layout is not adapted to different screen sizes, and the container width is 1140px
 
 ## 📁 Project Structure
