@@ -29,7 +29,6 @@ A responsive landing page for a fast food restaurant built with HTML and CSS.
 ├── images/
 ├── index.html
 ├── style.css
-└── README.md
 ```
 ## 📸 Preview
 ![Preview](Burger-landing/images/preview1.png)
