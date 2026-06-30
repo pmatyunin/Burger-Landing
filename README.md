@@ -36,6 +36,8 @@ the website layout is not adapted to different screen sizes, and the container w
 
 ![Preview](Burger-landing/images/preview.png)
 
+![Preview](Burger-landing/images/preview2.png)
+
 ## 📄 License
 
 This project is created for educational and portfolio purposes.
